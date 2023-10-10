@@ -6,11 +6,11 @@
 
 ### Create a machine learning model to help an insurance company understand which claims are worth rejecting and the claims which should be accepted for reimbursement.
 
-### Final Competition score is 0.68081
+### The Final Competition score is 0.68081
 
 ### Leaderboard Rank is 24
 
-### Evaluation Metric is Logloss.
+### The Evaluation Metric is Logloss.
 
 ### File information
  
@@ -31,14 +31,14 @@
         * catboost
         * optuna
         * shap
-     #### Created catboost classifier model and tuned the hyperparameters by using optuna framework.Model evaluated with Logloss. 
+     #### Created catboost classifier model and tuned the hyperparameters by using optuna framework. Model evaluated with Logloss. 
      #### [For more detailed information about the model.](https://github.com/hariprasath-v/Machinehack-analytics-olympiad-2022/blob/main/Approach_Machinehack_analytics_olympiad_2022.pdf)
      
 
 ### Catboost model Optimization History - Explains the best score at each trials.
 ![Alt text](https://github.com/hariprasath-v/Machinehack-analytics-olympiad-2022/blob/main/Model%20Visualization/Catboost%20optuna%20optimization%20history%20for%20100%20trials.png)
 
-### Catboost – SHAP feature importances
+### Catboost – SHAP feature importance
 ![Alt text](https://github.com/hariprasath-v/Machinehack-analytics-olympiad-2022/blob/main/Model%20Visualization/Catboost%20SHAP%20feature%20importances.png)
 
 ### Catboost – SHAP top feature impact
