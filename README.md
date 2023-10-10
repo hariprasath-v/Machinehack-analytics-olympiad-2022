@@ -4,7 +4,7 @@
 
 # About
 
-### Create a machine learning model to help an insurance company understand which claims are worth rejecting and the claims which should be accepted for reimbursement.
+### Create a machine learning model to help an insurance company understand which claims are worth rejecting and the claims that should be accepted for reimbursement.
 
 ### The Final Competition score is 0.68081
 
